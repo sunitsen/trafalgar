@@ -1,0 +1,93 @@
+/*--------header section---------*/
+@media only screen and (max-width: 991px) {
+    .header-left>h1{
+      text-align: center;
+      margin-top: 100px;
+    }
+    .header-left>p{
+      text-align: center;
+      padding-block: 10px;
+    }
+    .header-btn{
+        margin: auto;
+         }
+         /*------header right-------*/
+         .header-right{
+            width: 70%;
+            margin: auto;
+           margin-top: -40px;
+          }
+          /*--------our services--------*/
+          .service-svg{
+            width: 100% !important;
+            
+          }
+          .services-single-box{
+            width: 100%;
+          }
+          /*--------client section----------*/
+          .client-detail>h4{
+            margin-left: 10px;
+          }
+          .client-detail>span{
+            margin-left: 10px;
+          }
+          .client-text>p{
+            width: 100%;
+            margin-top: 15px;
+          }
+          /*----------article---------*/
+          .single-article{
+            width: 100%;
+           }
+           /*-------------all sections margin-top----------*/
+           .our-services{
+            margin-top: 100px !important;
+           }
+           .leadding{
+             margin-top: 100px !important;
+           }
+           .client{
+             margin-top: 100px !important;
+           }
+           .article{
+             margin-top: 100px !important;
+           }
+           .footer{
+             margin-top: -50px !important;
+           }
+  }
+    
+  @media only screen and (max-width: 767px) {
+
+    .client-text>p{
+      text-align: center;
+    }
+    /*-----footer------*/
+
+    .footer-logo>h4
+      {
+      text-align: center !important;
+      }
+      .footer-logo>p{
+        margin: auto !important;
+        width: 80% !important;
+        text-align: center !important;
+      }
+      .copyright-text{
+      display: flex !important;
+        justify-content: center !important;
+    
+      }
+      .footer-all-links{
+        width: 100% !important;
+      
+      }
+      .leadding-btn{
+        padding-bottom: 50px;
+      }
+    }
+
+
+
+
